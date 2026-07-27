@@ -1,0 +1,25 @@
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: green;
+    padding: 0 20px 20 px;
+
+    border: spx solid black;
+    
+}
+
+
+
+
+
+
+
+
+ing {
+    display: white;
+    margin: 0 auto;
+    width: 50%;
+    border-color: red;
+    border-width: spx;
+    border-style: solid;
+}
