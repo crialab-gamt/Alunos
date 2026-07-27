@@ -1,0 +1,21 @@
+h1 {
+    font-size: 90px;
+    text-align: center;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: red;
+    padding: 0 130px 130px 130px;
+    border: 8px solid black;
+}
+
+img{
+    display: block;
+    margin: 0  auto;
+    width: 70%;
+    border-color: black;
+    border-width: 10px;
+    border-style: solid;
+}
